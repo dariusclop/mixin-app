@@ -1,0 +1,4 @@
+/node_modules
+/backend/node_modules
+/new-todo/node_modules
+/new-todo/build
